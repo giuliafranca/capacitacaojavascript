@@ -14,3 +14,5 @@ const media = total / (peso1 + peso2)
 console.log(media.toFixed(2)) //delimitar casas decimais
 console.log(media.toString()) //transforma o parametro em String
 console.log(typeof media) // passar o tipo da variavel 
+
+//parei na licao 41
